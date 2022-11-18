@@ -3,8 +3,8 @@
 <hr>
 <h3 align="center" color="red">Welcome to my profile. Happy to have you here. 🌞</h3>
 
-<img align="right" alt="coding" width="400" scr="![image](https://user-images.githubusercontent.com/99351697/202679834-12ab5f9f-f9ca-4859-ad1a-00a226defa26.png)
-"></img>
+<img align="right" alt="coding" width="400" scr ="![image](https://user-images.githubusercontent.com/99351697/202681814-fcc71351-b4e1-47c7-bcbc-1c2bae33637f.png)
+">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saista12324&label=Profile%20views&color=0e75b6&style=flat" alt="saista12324" /> </p>
 
 - 💬 Ask me about **Android , MERN**
