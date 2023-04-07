@@ -3,7 +3,7 @@
 <hr>
 <h3 align="center" color="red">Welcome to my profile. Happy to have you here. 🌞</h3>
 
-<img align="right" alt="coding" width="400" scr ="![image](https://img.freepik.com/premium-vector/girl-coding-with-laptop-illustration_418302-2384.jpg?w=2000)
+<img align="right" alt="coding" width="400" scr ="https://img.freepik.com/premium-vector/girl-coding-with-laptop-illustration_418302-2384.jpg?w=2000
 ">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saista12324&label=Profile%20views&color=0e75b6&style=flat" alt="saista12324" /> </p>
 
